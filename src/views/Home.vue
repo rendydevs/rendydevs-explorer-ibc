@@ -7,7 +7,7 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          Ping Dashboard<small class="flow-left">Beta</small>
+          rendydevs explorer<small class="flow-left">Powered By PingPub</small>
         </h1>
       </div>
     </b-link>
